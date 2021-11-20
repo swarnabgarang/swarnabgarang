@@ -12,16 +12,12 @@
 
 <br />
 
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="swarnabgarang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=swarnabgarang&show_icons=true&count_private=true&locale=en&layout=compact&theme=tokyonight" /></a>
-</details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="swarnabgarang's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabgarang&langs_count=10&layout=compact&theme=tokyonight" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="swarnabgarang's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabgarang&langs_count=10&theme=tokyonight" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
