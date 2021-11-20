@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Swarnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnabgarang&show_icons=true&hide_border=true)]
+
+
+
 <!--
 **swarnabgarang/swarnabgarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
