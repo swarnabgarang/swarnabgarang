@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Swarnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnabgarang&show_icons=true&hide_border=true)]
+![Swarnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnabgarang&show_icons=true&hide_border=true)
 
 
 
