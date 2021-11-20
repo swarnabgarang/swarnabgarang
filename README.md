@@ -4,8 +4,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabgarang&langs_count=6&theme=tokyonight)
 
-![Swarnab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swarnab&theme=tokyonight)
-
 
 
 <!--
