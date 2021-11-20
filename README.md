@@ -33,8 +33,11 @@
 
 <details>
   <summary>📫 Pinned Repositories</summary>
-  <br />
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-frontend&theme=tokyonight)
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-backend&theme=tokyonight)
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="swarnabgarang's Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-frontend&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img alt="swarnabgarang's Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-backend&theme=tokyonight" />
+  </a>
 </details>
 
