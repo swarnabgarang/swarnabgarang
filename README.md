@@ -1,9 +1,16 @@
-### Hi there! I am Swarnab 👋
-- 🔭 I’m currently working on my portfolio website
+# Hi there! I am Swarnab 👋
+<br />
+
+## 📖 About Me
+
+- 🔭 I’m currently studying Electronics and Instrumentation Engineering at BITS Goa
 - 🌱 I’m currently learning Solidity and Flutter
-- 👯 I’m looking to collaborate for hackathons based on Web Development
+- 👯 I’m looking to collaborate on hackathons based on Web Development
 - 📫 How to reach me: Drop an email on swarnabagarang@gmail.com or connect with me on twitter @GarangSwarnab
+- 💬 Ask me anything about history of Mathematics and of the Roman empire
 - ⚡ Fun fact: StackOverflow has saved more lives than Batman
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnabgarang&label=Profile%20views&color=0e75b6&style=flat" alt="arihantbansal" /> </p>
 
 
 <details>
