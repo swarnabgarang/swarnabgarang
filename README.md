@@ -15,5 +15,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabgarang&langs_count=6&theme=tokyonight)
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-frontend)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-backend)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-frontend&theme=tokyonight)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-backend&theme=tokyonight)
