@@ -23,23 +23,18 @@
 <details>
   <summary>⚡GitHub Streak</summary>
   <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="swarnabgarang's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arihantbansal&theme=tokyonight" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="swarnabgarang's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabgarang&theme=tokyonight" /></a>
 </details>
 <br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=swarnabgarang&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=swarnabgarang&theme=react-dark)
 
----
+<br />
 
+<details>
+  <summary>📫 Pinned Repositories</summary>
+  <br />
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-frontend&theme=tokyonight)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-backend&theme=tokyonight)
+</details>
 
-![Swarnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarnabgarang&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabgarang&langs_count=6&theme=tokyonight)
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-frontend&theme=tokyonight)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-backend&theme=tokyonight)
