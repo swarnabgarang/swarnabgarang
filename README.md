@@ -10,8 +10,7 @@
 - 💬 Ask me anything about history of Mathematics and of the Roman empire
 - ⚡ Fun fact: StackOverflow has saved more lives than Batman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnabgarang&label=Profile%20views&color=0e75b6&style=flat" alt="arihantbansal" /> </p>
-
+<br />
 
 <details>
   <summary>📊 GitHub Profile Stats</summary>
@@ -22,7 +21,7 @@
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="arihantbansal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabgarang&langs_count=10&layout=compact&theme=tokyonight" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="swarnabgarang's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabgarang&langs_count=10&layout=compact&theme=tokyonight" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
