@@ -1,13 +1,12 @@
 # Hi there! I am Swarnab 👋
 <br />
 
-## 📖 About Me
+## About Me
 
-- 🔭 I’m currently studying Electronics and Instrumentation Engineering at BITS Goa
+- 📖 I’m currently studying Electronics and Instrumentation Engineering at BITS Goa
+- 🔭 I'm currently working on my React and Node skills
 - 🌱 I’m currently learning Solidity and Flutter
-- 👯 I’m looking to collaborate on hackathons based on Web Development
 - 📫 How to reach me: Drop an email on swarnabagarang@gmail.com or connect with me on twitter @GarangSwarnab
-- 💬 Ask me anything about history of Mathematics and of the Roman empire
 - ⚡ Fun fact: StackOverflow has saved more lives than Batman
 
 <br />
