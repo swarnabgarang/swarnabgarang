@@ -30,7 +30,6 @@
   <br/>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="swarnabgarang's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabgarang&theme=tokyonight" /></a>
 </details>
-<br />
 
 ## Languages and Tools:
 
