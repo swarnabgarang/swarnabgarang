@@ -52,14 +52,15 @@
 
 <br />
 
-
-[//]: <details>
-[//]:  <summary>📫 Pinned Repositories</summary>
-[//]: <a href="https://github.com/swarnabgarang">
-[//]:    <img alt="Swarnab's Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-frontend&theme=tokyonight" />
-[//]:  </a>
-[//]:  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-[//]:  <img alt="Swarnab's Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-backend&theme=tokyonight" />
-[//]:  </a>
-[//]: </details>
+<!--
+<details>
+ <summary>📫 Pinned Repositories</summary>
+ <a href="https://github.com/swarnabgarang">
+    <img alt="Swarnab's Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-frontend&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img alt="Swarnab's Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-backend&theme=tokyonight" />
+  </a>
+ </details>
+-->
 
