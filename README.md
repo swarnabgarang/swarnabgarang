@@ -3,21 +3,21 @@
 
 ## About Me
 
-- 📖 I’m currently studying Electronics and Instrumentation Engineering at BITS Goa
-- 🔭 I'm currently working on my React and Node skills
-- 🌱 I’m currently learning Solidity and Flutter
+- 📖 Studying Electronics and Instrumentation Engineering at BITS Goa
+- 🔭 Working on my React and Node skills
+- 🌱 Learning Solidity and Flutter
 - 📫 How to reach me: Drop an email on swarnabagarang@gmail.com or connect with me on twitter @GarangSwarnab
 - ⚡ Fun fact: StackOverflow has saved more lives than Batman
 
 <br />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swarnab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=swarnabgarang&show_icons=true&count_private=true&locale=en&layout=compact&theme=tokyonight" /></a>
+  <a href="https://github.com/swarnabgarang"><img alt="Swarnab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=swarnabgarang&show_icons=true&count_private=true&locale=en&layout=compact&theme=tokyonight" /></a>
 
 <br />
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Swarnab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabgarang&langs_count=5&theme=tokyonight" /></a>
+  <a href="https://github.com/swarnabgarang"><img alt="Swarnab's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarnabgarang&langs_count=5&theme=tokyonight" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
@@ -27,7 +27,7 @@
 <details>
   <summary>⚡GitHub Streak</summary>
   <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Swarnab's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabgarang&theme=tokyonight" /></a>
+  <a href="https://github.com/swarnabgarang"><img alt="Swarnab's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnabgarang&theme=tokyonight" /></a>
 </details>
 
 <br />
@@ -54,7 +54,7 @@
 
 <details>
   <summary>📫 Pinned Repositories</summary>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/swarnabgarang">
     <img alt="Swarnab's Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=swarnabgarang&repo=foodict-frontend&theme=tokyonight" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
