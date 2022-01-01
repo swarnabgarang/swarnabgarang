@@ -5,7 +5,7 @@
 
 - 📖 Studying Electronics and Instrumentation Engineering at BITS Goa
 - 🔭 Working on my React and Node skills
-- 🌱 Learning Solidity and Flutter
+- 🌱 Learning Solidity and Rust
 - 📫 How to reach me: Drop an email on swarnabagarang@gmail.com or connect with me on twitter @GarangSwarnab
 - ⚡ Fun fact: StackOverflow has saved more lives than Batman
 
