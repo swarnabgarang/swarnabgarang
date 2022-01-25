@@ -5,7 +5,7 @@
 
 - 📖 Studying Electronics and Instrumentation Engineering at BITS Goa
 - 🔭 Working on my React and Node skills
-- 🌱 Learning Solidity and Rust
+- 🌱 Learning Rust
 - 📫 How to reach me: Drop an email on swarnabgarang@gmail.com or connect with me on twitter <a href="https://twitter.com/0xswarnab">@0xswarnab</a> 
 
 <br />
