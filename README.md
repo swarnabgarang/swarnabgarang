@@ -1,4 +1,4 @@
-# Hi there! I am Swarnab 👋
+# Hi there! 👋
 <br />
 
 ## About Me
