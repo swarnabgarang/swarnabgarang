@@ -5,7 +5,7 @@
 
 - 🔭 Working on my React and Node skills
 - 🌱 Learning Rust
-- 📫 How to reach me: Drop an email on iwasbornonlyyesterday@protonmail.com or connect with me on twitter <a href="https://twitter.com/0xcatrovacer">@0xcatrovacer</a> 
+- 📫 How to reach me: You can connect with me on twitter <a href="https://twitter.com/0xcatrovacer">@0xcatrovacer</a> 
 
 <br />
 
