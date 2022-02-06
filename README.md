@@ -3,8 +3,8 @@
 
 ## About Me
 
-- 🔭 Working on my React and Node skills
-- 🌱 Learning Rust
+- 🔭 Working on my React and Rust skills
+- 🌱 Learning Anchor
 - 📫 How to reach me: You can connect with me on twitter <a href="https://twitter.com/0xcatrovacer">@0xcatrovacer</a> 
 
 <br />
