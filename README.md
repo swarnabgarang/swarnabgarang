@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! I am Swarnab 👋
 <br />
 
 ## About Me
@@ -35,6 +35,8 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0xcatrovacer&theme=react-dark)
 
 <br />
+
+<img src="https://komarev.com/ghpvc/?username=0xcatrovacer&label=Profile%20views&color=0e75b6&style=flat" alt="arihantbansal" />
 
 <!--
 <details>
