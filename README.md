@@ -31,23 +31,3 @@
 
 <br />
 
-## My Contribution Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0xcatrovacer&theme=react-dark)
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=0xcatrovacer&label=Profile%20views&color=0e75b6&style=flat" alt="arihantbansal" />
-
-<!--
-<details>
- <summary>📫 Pinned Repositories</summary>
- <a href="https://github.com/0xcatrovacer">
-    <img alt="Swarnab's Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=0xcatrovacer&repo=foodict-frontend&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img alt="Swarnab's Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=0xcatrovacer&repo=foodict-backend&theme=tokyonight" />
-  </a>
- </details>
--->
-
