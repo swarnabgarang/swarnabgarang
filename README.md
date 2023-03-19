@@ -3,10 +3,10 @@
 
 ## About Me
 
-- 💻 SDE @ [Concise Labs](https://www.conciselabs.io)
-- 🔭 Working on [Seahorse Cookbook](https://www.seahorsecookbook.com)
+- 💻 SDE @ [Concise Labs](https://www.conciselabs.io){:target="_blank"}
+- 🔭 Working on [Seahorse Cookbook](https://www.seahorsecookbook.com){:target="_blank"}
 - 🌱 Learning Anchor and Seahorse
-- 📫 Connect with me on twitter <a href="https://twitter.com/0xcatrovacer">@0xcatrovacer</a> 
+- 📫 Connect with me on twitter <a href="https://twitter.com/0xcatrovacer" taget="_blank">@0xcatrovacer</a> 
 
 <br />
 
