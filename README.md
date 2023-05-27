@@ -1,7 +1,4 @@
 # Hi there! I am Swarnab 👋
-<br />
-
-## About Me
 
 - 💻 SDE @ <a href="https://www.conciselabs.io/" target="_blank">Concise Labs</a>
 - 🔭 Working on <a href="https://www.seahorsecookbook.com" target="_blank">Seahorse Cookbook</a>
